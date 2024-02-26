@@ -5,5 +5,4 @@
 --> One Motor is connected to move in the x-direction and another in the y-direction.
 
 
-https://github.com/Prerak8880/OpenCV_Electronics/assets/96664052/0eba9aa5-1288-4fc5-a2b9-8adb105a5378
 
